@@ -1,0 +1,69 @@
+---
+title: "Ruyu Liu, MS, RD" 
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+<center>![](/Users/ruliu/Library/CloudStorage/Box-Box/02 PhD/Headshots/CHUM headshot 2022.jpg){width=50%}</center>
+
+<center> Division of Nutritional Sciecnes </center>
+
+<center>Cornell University</center>
+
+<center>3206 Martha Van Rensselaer Hall</center>
+
+<center>Ithaca, NY 14850</center>
+
+<center> rl587@cornell.edu </center>
+
+<center> 513-680-3454</center>
+
+### AREAS
+
+Food Security; Community-Based Participatory Research; Minority Health; Mixed Methods Research; Socioeconomic Disparities in Health
+
+### EDUCATION 
+
+Cornell University, Ph.D. *Community Nutrition* [2021-Present]{style="float:right"}
+
+The University of Illinois at Urbana-Champaign, M.S. *Nutritional Sciences* [2018-2020]{style="float:right"}
+
+The University of Illinois at Urbana-Champaign, B.S. *Dietetics* [2013-2018]{style="float:right"}
+
+### PROFESSIONAL CREDENTIALS/CERTIFICATIONS
+
+Registered Dietitian (RD), The Commission on Dietetic Registration (CDR) [2020-]{style="float:right"}
+
+Nutrition Data System for Research (NDSR) Certified, Nutrition Coordinating Center, University of Minnesota [2022-]{style="float:right"}
+
+### RESEARCH EXPERIENCE 
+
+**Graduate Research Assistant, Cornell University** [2021]{style="float:right"}
+
+*The Figueroa Interdisciplinary Group (FIG), Division of Nutritional Sciences*
+
+* Conceptualize and coordinate community-based participatory research projects, collaborating with community partners based in New York, NY
+
+* Mentor undergraduate students on research methods, data collection, and data analysis
+
+* Lead a systematic review project using Covidence
+
+* Quantitative and qualitative data collection, analysis, and dissemination
+
+### PUBLICATIONS
+
+**Liu, R.**, Hannon, B.A., Robinson, K.N., Raine, L.B., Hammond, B.R., Renzi-Hammond, L.M., Cohen, N.J., Kramer, A.F., Hillman, C.H., Teran-Garcia, M., Khan, N.A. (2021). Single Nucleotide Polymorphisms in CD36 Are Associated with Macular Pigment among Children. The Journal of Nutrition, 151(9), 2533-2540.
+
+**Liu, R.**, Edwards, C.G., Cannavale, C.N., Flemming, I.R, Chojnacki M.R., Reeser, G.E., Iwinski, S.J., Renzi-Hammond, L.M., Khan, N.A. (2021). Weight Status and Visceral Adiposity Mediate the Relation between Exclusive Breastfeeding Duration and Skin Carotenoids in Later Childhood. Current Developments in Nutrition, 5(3).
+
+Khan, N.A., Cannavale, C.N., Iwinski, S., **Liu, R.**, McLoughlin, G., Steinberg, L.G., Walk, A.M. (2020). Visceral Adiposity and Diet Quality are Differentially Associated with Cognitive Abilities and Early Academic Skills among Preschool-age Children. Frontiers in Pediatrics, 7(548).
+
+
+
+
+
